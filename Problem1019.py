@@ -1,3 +1,4 @@
+#Time_Conversion
 Seconds = int(input(""))
 
 sec = (Seconds%60)
