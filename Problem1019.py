@@ -11,4 +11,4 @@ else:
     min = min1
     hrs = 0
 
-print("%d:"%hrs,"%d:"%min,"%d"%sec)
+print("%d:"%hrs+"%d:"%min+"%d"%sec)
